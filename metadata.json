@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Markets",
+  "description": "Comprehensive global financial market overview, interactive charts, stock screener, sector heatmap, and technical gauges inspired by TradingView.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
